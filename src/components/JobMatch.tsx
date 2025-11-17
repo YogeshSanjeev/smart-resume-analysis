@@ -5,7 +5,7 @@ import { storageService } from '../services/firebaseStorage';
 import { ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts';
 
 const popularRoles = [
-  'Software Engineer',
+  'yogesh kumar',
   'Product Manager',
   'Data Scientist',
   'UX Designer',
